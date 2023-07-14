@@ -4,10 +4,10 @@ FM-index can find short patterns of length m in long texts of length n in O(m) t
 
 # Usage Instructions:
 
-# FMindex
+### FMindex
 Enter text string into  FMindex
 
-# Important attributes
+### Important attributes
 charList = array - alphabetically sorted unique characters within text including $
 
 charSet = dictionary - all unique characters and their number of occurences
