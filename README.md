@@ -1,8 +1,8 @@
 # StringMatching
 
-# FM-index can find short patterns of length m in long texts of length n in O(m) time. This is because the long test is preprocessed in O(nlogn) time.
+FM-index can find short patterns of length m in long texts of length n in O(m) time. This is because the long test is preprocessed in O(nlogn) time.
 
-####### Usage Instructions #######
+# Usage Instructions 
 
 # FMindex
 Enter text string into  FMindex
